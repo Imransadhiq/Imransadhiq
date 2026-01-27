@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning ** JavaScript, Mysql, Junit, PyTest, Selenium, Jenkins, Big Data - Hadoop and ETL Testing **
 
-- 💬 Ask me about **Python, Java, JavaScript,Junit, Selenium,HTML, CSS, Bootstrap, Python,**
+- 💬 Ask me about **Python, Java, JavaScript, Junit, Selenium, HTML, CSS, Bootstrap, Python, PlayWright**
 
 - 📫 How to reach me **imransadhiq@gmail.com**
 
