@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammad Imran</h1>
-<h3 align="center">A passionate Data Scientist from India</h3>
+<h3 align="center">Quality Engineer Full Stack 🐞🔎</h3>
 <img align = "right" alt="coading" width="400" src ="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imransadhiq&label=Profile%20views&color=0e75b6&style=flat" alt="imransadhiq" /> </p>
