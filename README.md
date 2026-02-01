@@ -79,45 +79,37 @@ src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
 ---
 
-### 🚀 Languages & Tools
+<h3>🚀 Languages & Tools</h3>
 
 <p align="left">
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
+<!-- Programming -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40" height="40"/>
-<img src="https://playwright.dev/img/playwright-logo.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/appium/appium-original.svg" width="40" height="40"/>
+<!-- Automation -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/playwright.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/cypress.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/appium.svg" width="40"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/junit/junit-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/testng/testng-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/>
-
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
+<!-- DevOps -->
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" width="40"/>
 
 </p>
 
----
 
-### 📊 GitHub Stats
+## 📊 GitHub Stats
 
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imransadhiq&show_icons=true&locale=en&layout=compact" />
-</p>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=imransadhiq&layout=compact&theme=default)
 
-<p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=imransadhiq&show_icons=true&locale=en" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=imransadhiq&show_icons=true&theme=default)
 
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imransadhiq" />
-</p>
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=imransadhiq)
+
