@@ -138,7 +138,7 @@ src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 ### ☕ Powered by QA Life
 <p align="center">
   <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg"/>
-  <img src="https://forthebadge.com/images/badges/bug-free.svg"/>
+  <img src="https://img.shields.io/badge/Status-Bug%20Free-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white"/>
   <img src="https://forthebadge.com/images/badges/works-on-my-machine.svg"/>
 </p>
 
