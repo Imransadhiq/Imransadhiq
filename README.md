@@ -94,8 +94,6 @@ src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
 ---
 
-# 🎮 Tester’s Zone – Fun & Interactive
-
 ### 🐞 Bug Hunt Animation
 <p align="center">
   <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400"/>
