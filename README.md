@@ -103,14 +103,13 @@ src="https://miro.medium.com/max/1360/1*zVnWJtyGOX_kUIDm6ccCfQ.gif"/>
 
 ---
 
-### 🎯 QA Life Cycle (Animated)
+**QA Life Cycle** 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Write+Test+Cases;Break+the+Application;Log+Bugs;Automate+Everything;Ship+with+Confidence!&center=true&width=700&height=45">
 </p>
 
 ---
 
-### 🕹️ Tester Contribution Game
 <p align="center">
   <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
